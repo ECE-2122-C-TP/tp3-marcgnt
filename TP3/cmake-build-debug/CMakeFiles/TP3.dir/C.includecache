@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mgent/CLionProjects/TP3/main.c
+mesfonctions.h
+C:/Users/mgent/CLionProjects/TP3/mesFonctions.h
+stdio.h
+-
+
+C:/Users/mgent/CLionProjects/TP3/mesFonctions.h
+
